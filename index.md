@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+  <link rel="stylesheet" type="text/css" href="https://github.com/IngoLour/trashareINA.github.io/edit">
   <head>
     <meta charset="utf-8">
     <title>Trashare Indonesia</title>
